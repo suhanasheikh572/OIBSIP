@@ -36,8 +36,9 @@ Task 3 of the Python Programming track, Oasis Infobyte Internship (OIBSIP).
 ```
 ![Output](screenshot.png)
 
-
 ```
+![Output](screenshot.png)
+
 
 ## Author
 Suhana
