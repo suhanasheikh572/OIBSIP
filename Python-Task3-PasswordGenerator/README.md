@@ -34,7 +34,8 @@ Task 3 of the Python Programming track, Oasis Infobyte Internship (OIBSIP).
 
 ## Sample Output
 ```
-![Output] (screenshot.png)
+![Output](screenshot.png)
+
 
 ```
 
